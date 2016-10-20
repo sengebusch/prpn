@@ -1,0 +1,18 @@
+Requires libunits: https://github.com/sengebusch/libunits
+
+
+On most systems it should be save to do:
+
+  ./configure
+  make
+
+
+The installation has to be done as root:
+(the standard paths are /usr/local/lib for the shared library,
+/usr/local/bin for the utility programs and /usr/local/share/libunits
+for the database files. Use ./configure to change this, if needed)
+
+  make install
+
+
+The compilation has beed testet on SuSE-9.3 up to Open SuSE-13.2.
