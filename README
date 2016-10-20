@@ -1,3 +1,23 @@
-This small calculator uses the libunits library to du calculations including
-units.
+This small calculator uses the sengebusch/libunits library to du calculations 
+including units:  https://github.com/sengebusch/libunits
+
+It uses ncurses for ui.
+
+
+STK2 sca C deg aut dBm  nrm  dec alg  (0)   crt cmp tec   SI M= 0         
+-----------------------------------------------------------------
+|                                               |10             |
+|                                               | 9             |
+|                                               | 8             |
+|                                               | 7             |
+|                                               | 6             |
+|                                               | 5             |
+|                                               | 4             |
+|                              1  V             | 3   R         |
+|                              3  A             | 2   R         |
+|                    333.3333333  mOhm          | 1   R         |
+-----------------------------------------------------------------
+electrical resistance (R): milliohms
+1_V / 3_A =
+
 
